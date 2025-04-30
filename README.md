@@ -1,5 +1,13 @@
 # React + TypeScript + Vite
 
+![image](https://github.com/user-attachments/assets/2a67d1db-a2d6-4168-8b35-b54ac9241ea6)
+
+we have to guess if the next number would be less than or greater than 50.
+
+![image](https://github.com/user-attachments/assets/b420564a-4a27-4c27-85fc-fcbf31058226)
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
