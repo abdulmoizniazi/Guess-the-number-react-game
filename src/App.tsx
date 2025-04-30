@@ -7,7 +7,11 @@ function App() {
   return (
     <>
       <div className="">
-        <div className="text-2xl">Hola Mundo!</div>
+        <div className="flex items-center justify-center min-h-max bg-[#0f172a]">
+          <h1 className="text-4xl md:text-6xl p-16 font-extrabold bg-gradient-to-r from-pink-300 via-purple-300 to-blue-300 bg-clip-text text-transparent animate-gradient">
+            ¡Hola Mundo! Soy tu amigo Moiz.
+          </h1>
+        </div>
         <Controller />
       </div>
     </>
