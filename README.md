@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-![image](https://github.com/user-attachments/assets/66d0062f-dd4c-4557-bfce-a56869640e02)
+![image](https://github.com/user-attachments/assets/2a67d1db-a2d6-4168-8b35-b54ac9241ea6)
 
 we have to guess if the next number would be less than or greater than 50.
 
