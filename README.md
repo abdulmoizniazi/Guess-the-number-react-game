@@ -4,7 +4,7 @@
 
 we have to guess if the next number would be less than or greater than 50.
 
-![image](https://github.com/user-attachments/assets/32b7d06f-dd1b-427d-bd85-fd41bc6bfb41)
+![image](https://github.com/user-attachments/assets/b420564a-4a27-4c27-85fc-fcbf31058226)
 
 
 
